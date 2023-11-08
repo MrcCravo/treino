@@ -12,6 +12,7 @@
   background-image: url("https://i.ytimg.com/vi/XIXYk6xIhZs/maxresdefault.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  display: grid;
 }
 
 .container {
@@ -45,7 +46,7 @@ button {
   padding: 8px 20px 8px 20px;
   color: white;
   box-shadow: 0px 0px 5px gray;
-  border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 5px 5px;
   border: none;
   transition: 500ms;
   opacity: 0.8;
